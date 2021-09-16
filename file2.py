@@ -1,2 +1,2 @@
 print("This is second file")
-print("Done")
+print("Dne")
